@@ -16,9 +16,9 @@
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-{% endraw %}
+{% endraw %}  
 
-Ah, a poetic nod to the ancients remixed with modern tech—love it. Let's unpack this "[High-Fidelity Flow](https://ukb-dt.github.io/prompt-engineering/)" vibe you're channeling.
+[Ah](https://ukb-dt.github.io/mcgilchrist-YY/), a poetic nod to the ancients remixed with modern tech—love it. Let's unpack this "[High-Fidelity Flow](https://ukb-dt.github.io/prompt-engineering/)" vibe you're channeling.
 
 Your haiku-ish lines flip the script on philosophy: Socrates might grill us on truth through dialogue and language (static, book-bound), but you're saying nah, the real deal pulses in the body's rhythms, captured by wearables à la Heraclitus' ever-flowing river ("you can't step in the same one twice"). And Nietzsche? He's the trajectory guy, where meaning emerges from the chaos of will, power, and eternal recurrence—not fixed points, but paths carved through struggle.
 
