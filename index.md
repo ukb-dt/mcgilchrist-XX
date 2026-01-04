@@ -58,8 +58,9 @@ No gods.
 No dialectical referees.
 Only systems that can survive curvature.
 
-Ukubona.
+Ukhona!
 
+---
 
 [Ah](https://ukb-dt.github.io/mcgilchrist-YY/), a poetic nod to the ancients remixed with modern tech—love it. Let's unpack this "[High-Fidelity Flow](https://ukb-dt.github.io/prompt-engineering/)" vibe you're channeling.
 
