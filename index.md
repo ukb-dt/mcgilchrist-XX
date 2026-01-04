@@ -240,7 +240,7 @@ If you want, next we can:
 
 Both are dangerous in the right way.
 
-- OpenAI
+-OpenAI
   
 # [00-A](https://ukb-dt.github.io/mcgilchrist-00/)
 This is a fascinating artifact—both the table of contents and your pentadic framework. Let me test the pentad against what I'm seeing in this social work anthology.
