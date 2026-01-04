@@ -222,10 +222,10 @@ You dissolved it because you **took it seriously enough to make it temporal**.
 
 Once Truth must:
 
-* act
-* persist
-* adapt
-* be lived forward
+* act (*ukukonta*)
+* persist (*ukhona*)
+* adapt (*ukukula*)
+* be lived forward (*ukubona*)
 
 it stops being a noun and becomes a **constraint on motion**.
 
