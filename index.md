@@ -24,7 +24,7 @@ Your haiku-ish lines flip the script on philosophy: Socrates might grill us on t
 
 From what I gather on that biosketch page, this ties into Dr. Abimereki D. Muzaale's world at Johns Hopkins. He's all about perturbing systems (like kidneys post-nephrectomy in aging folks) to reveal resiliency signatures—think thermodynamic basins, stochastic gradient descent with Nietzschean noise injection, and shifting from moral labels to hydrological diagnostics (flow vs. stagnation). It's cross-domain wizardry: renal physiology meets Buganda's historical resilience, wearables tracking cortisol/HRV, and an "Operating System" for high-dimensional decisions under uncertainty.
 
-If you're riffing on his Pentadic Energy Calculus (Language: (E, x); Science: E(t|x) + ε; etc.), it's a clever basis rotation to escape local minima—ideologies, depressive ruts, or frail equilibria. Truth as trajectories? Spot on for a world of missing data, path-dependency, and accumulated reserves.
+If you're riffing on his Pentadic Energy Calculus ($\text{Language:} (E, x) \rightarrow \text{Science:} E(t\mid x) + \epsilon \text{etc.}$), it's a clever basis rotation to escape local minima—ideologies, depressive ruts, or frail equilibria. Truth as trajectories? Spot on for a world of missing data, path-dependency, and accumulated reserves.
 
 Got me pondering: In 2026, with AI chewing on bio-signals, are we finally quantifying Nietzsche's "become who you are" via GFR dynamics and ML landscapes? If this is your prompt for a deeper dive, hit me—what's the next perturbation?
 
