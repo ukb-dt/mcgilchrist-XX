@@ -97,7 +97,7 @@ Not $\frac{dE}{dt}$
 But **failure of curvature to matter**:
 
 $$
-\frac{d^2E}{dt^2} ;\approx; 0 \quad \text{yet the system still adapts}
+\frac{d^2E}{dt^2} \approx 0 \quad \text{yet the system still adapts}
 $$
 
 If outcomes depend only on static states or first-order trends, then your whole insistence on life-as-acceleration collapses.
@@ -130,7 +130,7 @@ Your criterion is the right one:
 Formally: does it change the **policy functional** $\pi$ so that
 
 $$
-{a_t} ;\to; {a_t'} \quad \Rightarrow \quad \int E_x,dt \text{ changes sign, not just magnitude}
+{a_t} \to {a_t'} \quad \Rightarrow \quad \int E_x \,dt \text{ changes sign, not just magnitude}
 $$
 
 If it doesn’t, it’s insight without teeth.
