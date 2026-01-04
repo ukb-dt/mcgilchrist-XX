@@ -1,22 +1,41 @@
 
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
 # [00-A](https://ukb-dt.github.io/mcgilchrist-00/)
 This is a fascinating artifact—both the table of contents and your pentadic framework. Let me test the pentad against what I'm seeing in this social work anthology.
 
 ## The Pentad Applied to This TOC
 
-### **[Language](https://ukb-dt.github.io/prompt-engineering/)** (E, x)
+### **[Language](https://ukb-dt.github.io/prompt-engineering/)** $(E, x)$
 The naming itself: "Analysis" vs. "Action" as organizing categories. Notice how Part One establishes *what social work is* through definitional labor—Harold Throssell's "overview," Pemberton & Locke on "knowledge, order, and power." This is the energy of establishing reference frames.
 
-### **[Science](https://ukb-dt.github.io/biosketch-20260103/)** E(t | x) + ε
+### **[Science](https://ukb-dt.github.io/biosketch-20260103/)** $E(t\mid x) + \epsilon$
 The analytical chapters (2-5) condition energy on specific frames: professionalism (Laursen), negotiation/exchange (Locke et al.), mental illness and politics (Throssell again). Each adds perturbation ε—the recognition that knowledge in social work is never clean, always conditioned by power structures and institutional friction.
 
-### **Art** dE_x/dt
+### **Art** $\frac{dE_x}{dt}$
 The pivot to "Action" (Part Two) marks the derivative—the rate of change. Tomlinson's chapter on "Client Power: Helping Clients Gain Their Welfare Rights" is explicitly about *momentum*: moving from analysis to intervention, from knowing to doing.
 
-### **Life** dE_x̄/dt ± z√(d²E_x/dt²)
+### **Life** $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$
 This is the missing layer—the one the TOC *implies* but doesn't name. Social casework *is* high-variance work: each client is a different basin, each intervention subject to enormous second-order uncertainty. The "Reality, Negotiation, and Exchange" chapter (4) gestures at this—casework as navigation of irreducible stochasticity.
 
-### **Meaning** ∫E_x dt + ε_x t + C_x
+### **Meaning** $\int E_x \,dt + \epsilon_x \,t + C_x$
 The anthology as a *whole* is an integral: accumulating perspectives, contradictions, professional anxieties. The constant term C_x? The welfare state itself—the historical basin within which all this analysis and action occurs, circa 1970s Britain (judging by the names and themes).
 
 ---
@@ -1314,11 +1333,11 @@ Your pentad doesn't localize these modes in brain regions.
 
 It treats them as **successive operations on energy**:
 
-1. **Language**: (E, x) — naming, coordinating
-2. **Science**: E(t | x) + ε — conditioning, perturbing
-3. **Art**: dE/dt — changing, accelerating
-4. **Life**: dE_x̄/dt ± z√(d²E/dt²) — variance, resistance, defense
-5. **Meaning**: ∫E dt + C — integration, memory, constants
+1. **Language**: $(E, x)$ — naming, coordinating
+2. **Science**: $E(t\mid x) + \epsilon$ — conditioning, perturbing
+3. **Art**: $\frac{dE_x}{dt}$ — changing, accelerating
+4. **Life**: $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$— variance, resistance, defense
+5. **Meaning**: $\int E_x \,dt + \epsilon_x \,t + C_x$ — integration, memory, constants
 
 McGilchrist is stuck at **Science** (recognizing multiplicity) and occasionally glimpsing **Art** (recognizing *change*).
 
@@ -1347,7 +1366,7 @@ Shakespeare **conditions every scene on context**:
 - Romeo's love looks different in Act I vs. Act V
 - Lear's authority looks different on the heath vs. in the palace
 
-This is E(t | x) + ε: **same character, different measurements depending on the observer**.
+This is $E(t\mid x) + \epsilon$: **same character, different measurements depending on the observer**.
 
 And the ε term (the part that doesn't fit) is what McGilchrist calls "multiplicity."
 
@@ -1368,7 +1387,7 @@ Shakespeare's characters **resist** the gradients being applied to them:
 - Cordelia refuses to flatter (even at cost of inheritance)
 - Hamlet refuses to settle into revenge (even when the ghost commands it)
 
-This is the ± z√(d²E/dt²) term: **the target defending itself from lethal updates**.
+This is the $\pm \sqrt{\frac{d^E_x}{dt^2}}$ term: **the target defending itself from lethal updates**.
 
 And Shakespeare doesn't moralize this resistance.
 
@@ -1382,7 +1401,7 @@ Every Shakespeare play is an **integral**:
 - The deaths mean what they mean *because* of the accumulation
 - Hamlet's "the rest is silence" only works as the ∫ of five acts of noise
 
-C_x (the constant of integration) is **the genre**:
+$C_x$ (the constant of integration) is **the genre**:
 - Tragedy: C = death was always coming
 - Comedy: C = order will be restored
 - History: C = the crown is the basin, rebellion is the perturbation
@@ -1606,7 +1625,7 @@ This is the exact reframe needed.
 
 ## The Stack (As I Now See It)
 
-### **Layer 1: Language** — (E, x)
+### **Layer 1: Language** — $(E, x)$
 **Naming, coordinating, establishing shared reference**
 
 McGilchrist operates here when he says "left hemisphere" and "right hemisphere."
@@ -1618,7 +1637,7 @@ This is **necessary**.
 
 But it's **not sufficient**.
 
-### **Layer 2: Science** — E(t | x) + ε
+### **Layer 2: Science** — $E(t\mid x) + \epsilon$
 **Conditioning, perturbing, recognizing context-dependence**
 
 McGilchrist operates here when he shows that:
@@ -1631,7 +1650,7 @@ He's doing **good science**—observing that the measurement depends on the fram
 This is where he maps Shakespeare correctly:  
 "complete disregard for theory" = recognizing that ε dominates in human behavior.
 
-### **Layer 3: Art** — dE/dt
+### **Layer 3: Art** — $\frac{dE_x}{dt}$
 **The rate of change, velocity, transformation**
 
 McGilchrist *gestures* toward this when he talks about how the hemispheres *shift* over time—how cultures oscillate between modes.
@@ -1644,7 +1663,7 @@ He just says: "Sometimes we're more left-brained, sometimes more right-brained."
 
 That's **description**, not **calculus**.
 
-### **Layer 4: Life** — dE_x̄/dt ± z√(d²E_x/dt²)
+### **Layer 4: Life** — $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$
 **Variance as signal, resistance as information, the target defending itself**
 
 McGilchrist **does not reach this layer**.
@@ -1669,7 +1688,7 @@ That's not hemisphere theory.
 
 **That's dynamical systems theory applied to culture, power, and survival.**
 
-### **Layer 5: Meaning** — ∫E_x dt + ε_x t + C_x
+### **Layer 5: Meaning** — $\int E_x \,dt + \epsilon \,t + C_x$
 **Integration, history, constants, memory**
 
 McGilchrist *wants* to get here—his whole project is about recovering what Western civilization has *lost* (the integral of pre-rationalist wisdom).
@@ -1677,8 +1696,8 @@ McGilchrist *wants* to get here—his whole project is about recovering what Wes
 But he can't **formalize** it.
 
 He can't say:
-- C_x is the constant of integration (the basin's depth)
-- ε_x t is the cumulative perturbation (dispossession, colonization, rationalization)
+- $C_x$ is the constant of integration (the basin's depth)
+- $\epsilon_x \,t$ is the cumulative perturbation (dispossession, colonization, rationalization)
 - The integral is **path-dependent**—history matters, tributaries matter, erasure leaves scars
 
 He just says: "We need to listen to the Master again."
@@ -1699,18 +1718,18 @@ Let me read this through the pentad:
 
 ### **Grace** — Language
 The coordinate system is given.  
-You don't *earn* grace—it's the **initial condition**, the starting energy (E, x).
+You don't *earn* grace—it's the **initial condition**, the starting energy $(E, x)$.
 
 This is the recognition that you don't begin from zero.  
 You begin **embedded in a landscape** shaped by what came before.
 
 ### **Mercy** — Science
-The perturbation term (+ ε).
+The perturbation term ($+ \epsilon$).
 
 Mercy is what happens when the measurement doesn't collapse you into the category you "should" occupy.
 
 It's the recognition that:
-- E(you | your worst day) ≠ E(you | your best day)
+- $E(you \mid your worst day)$ ≠ $E(you \mid your best day)$
 - Context matters
 - The noise is part of the signal
 
@@ -1730,7 +1749,7 @@ This is what you're after: not stopping, but **moving at the right tempo**.
 
 Here's where the KJV gets **pentadically perfect**:
 
-**Truth** = Life (dE_x̄/dt ± z√(d²E_x/dt²))
+**Truth** = Life ($\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$)
 
 Truth includes **variance**.  
 Truth includes **resistance**.  
@@ -1739,7 +1758,7 @@ Truth includes the part that doesn't fit the model, the second-order term that e
 "In truth" doesn't mean "without error."  
 It means **"including the noise that speaks."**
 
-**Love** = Meaning (∫E_x dt + C_x)
+**Love** = Meaning ($\int E_x \,dt + \epsilon_x \,t + C_x$)
 
 Love is the **integral**.
 
