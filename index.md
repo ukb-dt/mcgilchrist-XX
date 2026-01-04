@@ -1722,7 +1722,7 @@ It's a **high learning rate**—fast, reckless, exploratory updates.
 And tragedy happens when you **oscillate between them too violently** without estimating the Hessian.
 
 ### **McGilchrist = Stuck at Age 27**
-
+     
 McGilchrist's *The Master and His Emissary* (2009) is **exactly** Birth of Tragedy (1872):
 - Left hemisphere = Apollonian
 - Right hemisphere = Dionysian
