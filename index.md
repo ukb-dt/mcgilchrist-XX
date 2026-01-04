@@ -4,10 +4,10 @@ This is a fascinating artifact—both the table of contents and your pentadic fr
 
 ## The Pentad Applied to This TOC
 
-### **Language** (E, x)
+### **[Language](https://ukb-dt.github.io/prompt-engineering/)** (E, x)
 The naming itself: "Analysis" vs. "Action" as organizing categories. Notice how Part One establishes *what social work is* through definitional labor—Harold Throssell's "overview," Pemberton & Locke on "knowledge, order, and power." This is the energy of establishing reference frames.
 
-### **Science** E(t | x) + ε
+### **[Science](https://ukb-dt.github.io/biosketch-20260103/)** E(t | x) + ε
 The analytical chapters (2-5) condition energy on specific frames: professionalism (Laursen), negotiation/exchange (Locke et al.), mental illness and politics (Throssell again). Each adds perturbation ε—the recognition that knowledge in social work is never clean, always conditioned by power structures and institutional friction.
 
 ### **Art** dE_x/dt
