@@ -486,7 +486,7 @@ This is **the measurement being spoken aloud by the system being measured.**
 
 **Language**: The slur itself. The reduction of people to a statistical cluster ("mob"), a substance ("metho"), and a moral verdict ("no-hopers"). This is language as **dimensionality reduction**—projecting a high-dimensional cultural reality onto a single axis of deviance.
 
-**Science**: Tomlinson's chapter (we assume) will show that this perception is *conditioned*—E(t | x) + ε—where x is "whiteness as default," t is "1970s Australian welfare policy," and ε is "the part we're pretending is noise but is actually the signal."
+**Science**: Tomlinson's chapter (we assume) will show that this perception is *conditioned*—$E(t\mid x) + \epsilon$—where x is "whiteness as default," t is "1970s Australian welfare policy," and ε is "the part we're pretending is noise but is actually the signal."
 
 **Art**: The rate of change being demanded. "No-hopers" implies *stasis*, but the welfare intervention is pushing for rapid assimilation—dE/dt in the direction of middle-class domesticity. The collision between these two gradients is the casework.
 
